@@ -1,4 +1,4 @@
-# MR414N-ID — Web Security Scanner v6
+# MR414N-ID — Web Security Scanner 
 
 ![MR414N-ID Banner](banner.jpg)
 
