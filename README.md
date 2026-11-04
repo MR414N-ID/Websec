@@ -11,10 +11,6 @@
 
 MR414N-ID adalah web security scanner berbasis Python3 yang mencakup seluruh OWASP Top 10 dan jauh lebih dalam. Dirancang untuk berjalan di Linux dan Termux, tool ini menggabungkan recon pasif, vulnerability probing, hingga eksploitasi aktif dalam satu antarmuka interaktif.
 
-Tersedia dalam dua versi:
-- `websec.py` — source asli, plaintext
-- `websec_enc.py` — versi terenkripsi XOR runtime (payload tidak tampak di disk)
-
 ---
 
 ## ⚙️ Instalasi
