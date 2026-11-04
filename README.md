@@ -196,16 +196,4 @@ Format:
 
 ---
 
-## 🔐 Versi Enkripsi (websec_enc.py)
-
-`websec_enc.py` adalah wrapper loader yang:
-- Menyimpan seluruh source sebagai XOR-encrypted hex blob
-- Mendekripsi di RAM saat runtime
-- Tidak menulis file plaintext ke disk
-- Berjalan identik dengan `websec.py`
-
-Key enkripsi di-generate random setiap kali `websec_enc.py` di-build ulang.
-
----
-
 *Author: MR414N-ID | Version: v6 | Platform: Linux / Termux*
