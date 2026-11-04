@@ -31,8 +31,6 @@ pip install -r requirements.txt
 
 # Jalankan
 python3 websec.py
-# atau versi enkripsi
-python3 websec_enc.py
 ```
 
 ### Termux (Android)
